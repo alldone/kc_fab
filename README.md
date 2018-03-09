@@ -1,3 +1,20 @@
+# per installare manualmente 
+npm install express
+npm install gulp
+npm install gulp-rename
+npm install gulp-js-minify
+# per installare automaticamente 
+posizionarsi sul file package.json e lanciare:
+npm install 
+# per creare il min
+gulp minify-js
+
+
+
+
+
+
+
 # KC FAB
 
 KC FAB is a jQuery plugin to create materialize floating action button easily.
